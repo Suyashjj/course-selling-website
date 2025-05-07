@@ -1,4 +1,4 @@
-InvestoHub is a platform designed to help beginners learn about finance and stock market concepts through educational content. It features a secure login system using email authentication and manages data with Firebase Firestore. Users can generate and download PDF receipts for their transactions. The platform offers a user-friendly interface built with React.js and Tailwind CSS .Future upgrades include AI-driven insights and expanded payment options . .
+InvestoHub is a platform designed to help beginners learn about finance and stock market concepts through educational content. It features a secure login system using email authentication and manages data with Firebase Firestore. Users can generate and download PDF receipts for their transactions. The platform offers a user-friendly interface built with React.js and Tailwind CSS .Future upgrades include AI-driven insights and expanded payment options ...
 
 
 npm start
