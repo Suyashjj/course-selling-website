@@ -2,3 +2,4 @@ InvestoHub is a platform designed to help beginners learn about finance and stoc
 
 ..
 npm start
+...
