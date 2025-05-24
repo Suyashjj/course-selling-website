@@ -3,7 +3,7 @@
 A sleek and beginner-friendly **finance education platform** built using **React.js**, **Tailwind CSS**, and **Firebase**. **InvestoHub** is designed to help newcomers understand finance and stock market concepts through rich educational content, a smooth interface, and functional features like **PDF receipts** and secure authentication.
 
 <p align="center">
-  <img src="Screenshot (494).png" alt="InvestoHub Screenshot" width="800"/>
+  <img src="Screenshot (26).png alt="InvestoHub Screenshot" width="800"/>
 </p>
 
 ## 🚀 Features
