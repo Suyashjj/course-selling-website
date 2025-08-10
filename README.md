@@ -6,7 +6,7 @@ A sleek and beginner-friendly **finance education platform** built using **React
   <img src="Screenshot (26).png" alt="InvestoHub Screenshot" width="800"/>
 </p>
 
-## 🚀 Features
+## 🚀 Features 
 
 - 🔐 **Secure login** with email authentication (Firebase)
 - 🧾 **PDF receipt generation** for transaction records
